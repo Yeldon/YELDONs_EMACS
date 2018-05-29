@@ -1,0 +1,41 @@
+#+BLOG: wordpress
+#+POSTID: 13
+#+DATE: [2018-05-28 Mon 10:10]
+* Source code
+
+#+TITLE:  Yeldon is learning Org-mode
+
+#+BEGIN_SRC octave
+  clear
+  clc
+
+  A = 1;
+  disp(A);
+#+END_SRC
+
+#+RESULTS:
+
+#+BEGIN_SRC python :results output
+
+  import numpy
+  import sklearn
+
+  a=0
+  print(a)
+#+END_SRC
+
+#+RESULTS:
+: 0
+
+* LaTeX integration
+
+- Characters: \alpha \rightarrow \beta
+- $\frac{1}{2}$
+
+\begin{align*}
+  3 * 2 + & = 6 + 1\\
+          & = 7
+\end{align*}
+
+* Liberate programing
+  
