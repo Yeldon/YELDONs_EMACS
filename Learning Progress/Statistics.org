@@ -1,0 +1,66 @@
+#+BLOG: wordpress
+#+POSTID: 22
+#+DATE: [2018-05-29 Tue 15:09]
+#+TITLE: Zhouteng Ye's learning progress on probability and statistics
+
+* History of probability and statisticas
+*Probability* has been defined as the study of the frequency of appearance of a
+phenomenon in relation to all possible alternatives. 
+
+*Statistics* is the science and art of gathering, analyzing, and making
+inferences from data.
+
+
+The history of probability and statistics:
+- Randomness was not associated with gaming in early time. Starting from
+  Renaissance, randomness started being considered.
+- "Problem of points" gives rise to the science of mathematical probability.
+  Discussion among Paciolo, Pascal, Fermat and de Mere not only came up with a
+  convincing, self-consistent solution to the division of the stakes, but also
+  developed concepts that continue to be fundamental in probability to this day.
+- In 1657, Huygens wrote the first formal treatise on probability /On reasoning
+  in games of chance/ based on the Fermat-Pascal correspondence. In 1713 Jakob
+  Bernouli pushed the book /The art of conjecturing/. Bernoulli also proved a
+  version of the fundamental law of large numbers.
+- John Graunt, "Father of Statistics", was the first person drew statistical
+  iniferences from analysese of mass data in 17th century.
+- Halley, Newton, Demoivre made pioneering efforts on acturial mathematics and
+  its relation to life ensuranhce. During which the mathematics of permutation,
+  combination and normal propability curve has been developed. 
+- After that, propability and statistics entered a new trainsitional period.
+  mathematicians realized that probability could not be separated from
+  statistics.
+- Daniel Bernoulli proposed Petersburg paradox (However, the name took from the
+  resolution of Daniel Bernoulli), calculus was applied to the theory of
+  probability. Euler, Lagrange also advenced the theory of probability by
+  applying differential calculus to it.
+- Laplace, "Father of Modern Probability Theory" used the theory of probability
+  to obtain a statistical measure of reliability of numerical results. The
+  results relies on definite causes rather than pure chance. Using 
+- Using the probability theory that 
+
+* Study of evidence theory 
+
+** 
+
+* Reading lists 
+- [[http://www.jstor.org/stable/pdf/27967334.pdf?refreqid=excelsior%253A8eea78ccaa3fd539bb77e2b2345460d7][Lightner, J.E., 1991. A brief look at the history of probability and
+  statistics. The Mathematics Teacher, 84(8), pp.623-630.]] 
+- [[http://dspace.elib.ntt.edu.vn/dspace/bitstream/123456789/8106/1/Introduction%2520to%2520Probability%2520Models.pdf][Ross, S.M., 2014. Introduction to probability models. Academic press.]]
+- Bickel, P.J. and Doksum, K.A., 2015. Mathematical statistics: basic ideas and
+  selected topics, volume I (Vol. 117). CRC Press.
+- Casella, G. and Berger, R.L., 2002. Statistical inference (Vol. 2). Pacific
+  Grove, CA: Duxbury.
+- Freedman, D., Pisani, R., Purves,. 1998. Statistics. Norton & Company.
+  New York.
+- Keener, R.W., 2011. Theoretical statistics: Topics for a core course.
+  Springer.
+- Oberkampf, W.L., 2005, August. Uncertainty quantification using evidence
+  theory. In Proceedings from the Advanced Simulation & Computing Workshop.
+- Soundappan, P., Nikolaidis, E., Haftka, R.T., Grandhi, R. and Canfield,
+  R., 2004. Comparison of evidence theory and Bayesian theory for uncertainty
+  modeling. Reliability engineering & System safety, 85(1-3), pp.295-311.
+- [[https://en.wikipedia.org/wiki/Problem_of_points][Problem of points on wikipedia]]
+- [[https://en.wikipedia.org/wiki/History_of_probability][History of probability on wikipedia]]
+- [[https://en.wikipedia.org/wiki/History_of_statistics][History of statistics on wikipedia]]
+- [[https://en.wikipedia.org/wiki/Dempster%25E2%2580%2593Shafer_theory][Dempster-Shafer theory on wikipedia]] 
