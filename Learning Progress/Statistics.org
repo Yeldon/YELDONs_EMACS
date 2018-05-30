@@ -3,7 +3,7 @@
 #+DATE: [2018-05-29 Tue 15:09]
 #+TITLE: Zhouteng Ye's learning progress on probability and statistics
 
-* History of probability and statisticas
+* History of probability and statistics
 *Probability* has been defined as the study of the frequency of appearance of a
 phenomenon in relation to all possible alternatives. 
 
@@ -15,7 +15,7 @@ The history of probability and statistics:
 - Randomness was not associated with gaming in early time. Starting from
   Renaissance, randomness started being considered.
 - "Problem of points" gives rise to the science of mathematical probability.
-  Discussion among Paciolo, Pascal, Fermat and de Mere not only came up with a
+  Discussion among Paciolo, Pascal, Fermat and deshuangquzhengqiehanshu Mere not only came up with a
   convincing, self-consistent solution to the division of the stakes, but also
   developed concepts that continue to be fundamental in probability to this day.
 - In 1657, Huygens wrote the first formal treatise on probability /On reasoning
@@ -41,7 +41,52 @@ The history of probability and statistics:
 
 * Study of evidence theory 
 
-** 
+** Definition of evidence theory
+
+- Heart of the evidence theory: *Dempster's rule*. 
+- The theory deals with weights of evidence and with numerical degree of support
+  based on evidence.
+- Does not focus on the act of judgement by much such a number is determined.
+- Focus on somthing more amenable to mathematical analysis: the combination on
+  somthing degrees of belief or support based on on body evidence with those
+  based on an entirely distinct body of evidence.
+- 
+
+
+** Belief Function
+
+    Suppose $\Theta$ is a finite set, and let $2 ^ \Theta$ denote the set of all
+subsets of $\Theta$, Suppose the function /Bel/: $2^\Theta \rightarrow [0,1]$
+satisfies the following conditions:
+- (1) /Bel/ (\Phi)=0
+- (2) /Bel/ (\Theta\) = 1
+- (3) For every positive integer $n$ and every collection $A_1,..,A_n$ of
+  subsets of $\Theta$,
+$Bel(A_1\cup ... \cup A_n) \ge \sum_i Bel(A_i) - \sum_{i<j} Bel(A_i \cap A_j)
++-...+(-1)^{n+1}Bel(A_1\cap...\cap A_n)$
+
+Then /Bel/ is called a *belief function* over $\Theta$.
+
+    Only the set functions obey the rules (1) to (3) can be combined by *Dempster's
+rule* of combination.
+
+Support function
+
+** The idea of chance
+
+    The ideas of *Chance* and *blief* are united under the name *probability*. But
+they actually have different roles to play. The difference between *Chance* and
+*Belief* are:
+
+- *Chance* arises only when one describes an aletory (or ramdom) experiment. The
+  outcome varies randomly from one physically independent trial to another.
+- *
+
+
+
+** Evidency theory and Bayesian theory
+
+** Evidency theory in machine learning
 
 * Reading lists 
 - [[http://www.jstor.org/stable/pdf/27967334.pdf?refreqid=excelsior%253A8eea78ccaa3fd539bb77e2b2345460d7][Lightner, J.E., 1991. A brief look at the history of probability and
