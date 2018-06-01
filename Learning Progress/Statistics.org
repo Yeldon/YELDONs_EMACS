@@ -177,6 +177,7 @@ aspect from geometry to explain the combination rule.
 
 
 ** Evidence theory in machine learning
+I have not got enough time to read about it, but I do see some paper on this topic, mostly using evidence theory for classifiers.
 
 * Reading lists 
 - [[http://www.jstor.org/stable/pdf/27967334.pdf?refreqid=excelsior%253A8eea78ccaa3fd539bb77e2b2345460d7][Lightner, J.E., 1991. A brief look at the history of probability and

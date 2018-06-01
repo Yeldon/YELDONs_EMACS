@@ -1,0 +1,34 @@
+#+BLOG: wordpress
+#+POSTID: 76
+#+DATE: [2018-05-30 Wed 19:18]
+
+#+TITLE: Zhouteng Ye
+
+* Education
+- 2009 - 2013, Ocean University of Cina, (BE) Port, Coastal and Channel Engineering
+- 2013 - 2016, Zhejiang University, (Ms) Port, Coastal and Offshore Engineering
+- 2016 - ~   , Zhejiang University, (Ph.D) Port, Coastal and Offshore Engineering
+- 2017 - ~   , Florida State University, (Visiting scholar), Applied Mathematics
+
+* Publications
+
+- *Ye, Z.*, & Zhao, X. (2017). /Investigation of water-water interface in dam break flow with a wet bed/. Journal of hydrology, 548, 104-120. [[https://zyeeee.files.wordpress.com/2018/05/ye-and-zhao-2017-investigation-of-water-water-interface-in-dam-brea.pdf][(PDF)]]
+- Yu, C. H., *Ye, Z. T.*, Sheu, T. W., Lin, Y. T., & Zhao, X. Z. (2016). /An improved interface preserving level set method for simulating three dimensional rising bubble/. International Journal of Heat and Mass Transfer, 103, 753-772. [[https://zyeeee.files.wordpress.com/2018/05/yu-et-al-2016-an-improved-interface-preserving-level-set-method.pdf][(PDF)]]
+- *Ye, Z.*, Zhao, X., & Deng, Z. (2016). /Numerical investigation of the gate motion effect on a dam break flow/. Journal of Marine Science and Technology, 21(4), 579-591. [[https://zyeeee.files.wordpress.com/2018/05/ye-et-al-2016-numerical-investigation-of-the-gate-motion-effect.pdf][(PDF)]]
+- *Ye, Z.*, Li, M., & Zhao, X. (2017, July). /Wave Simulation Using an Internal Wave-Maker in a CIP-based Model/. In The 27th International Ocean and Polar Engineering Conference. International Society of Offshore and Polar Engineers. [[https://zyeeee.files.wordpress.com/2018/05/ye-et-al-2017-wave-simulation-using-an-internal-wave-maker-in-a.pdf][(PDF)]]
+- Zhao, X., *Ye, Z.*, Fu, Y., & Cao, F. (2014). /A CIP-based numerical simulation of freak wave impact on a floating body/. Ocean engineering, 87, 50-63. [[https://zyeeee.files.wordpress.com/2018/05/zhao-et-al-2014-a-cip-based-numerical-simulation-of-freak-wave-imp.pdf][(PDF)]]
+- Zhao, X., *Ye, Z.*, & Fu, Y. (2014). /Green water loading on a floating structure with degree of freedom effects/. Journal of Marine Science and Technology, 19(3), 302-313. [[https://zyeeee.files.wordpress.com/2018/05/zhao-et-al-2014-green-water-loading-on-a-floating-structure-with-d.pdf][(PDF)]]
+- Li, D., Yao, Y., Chen, Q., & *Ye, Z*. (2015, May). /Numerical simulation of tidal current energy in Yangtze Estuary-Hangzhou Bay/, China. In OCEANS 2015-Genova (pp. 1-6). IEEE. [[https://zyeeee.files.wordpress.com/2018/05/li-et-al-2015-numerical-simulation-of-tidal-current-energy-in-ya.pdf][(PDF)]]
+
+* Personal pages:
+
+[[https://scholar.google.com/citations?user=QyVrU38AAAAJ&hl=en&oi=ao][Zhouteng Ye's Google Scholar homepage]]
+
+[[https://www.researchgate.net/profile/Zhouteng_Ye2][Zhouteng Ye's Research Gate homepage]] 
+
+* External links
+
+- [[http://person.zju.edu.cn/en/freakwave/653371.html][Professor Xizeng Zhao, Zhejiang University]]
+- [[https://www.math.fsu.edu/~sussman/][Professor Mark Sussman, Florida State University]]
+- [[http://www.cespr.fsu.edu/][M.Y. Hussaini, Florida State University]]
+- [[http://www.math.zju.edu.cn:8080/teacherintroen.asp?userid=329][Professor Qinghai Zhang, Zhejiang University]]
