@@ -4,11 +4,38 @@
 
 #+TITLE: Zhouteng Ye
 
+- Ph.D Candidate
+- [[http://oc.zju.edu.cn/][Ocean Clooege, Zhejiang university]] (Advisor: [[http://person.zju.edu.cn/en/freakwave][Dr. Xizeng Zhao]])
+- [[https://www.math.fsu.edu/][Despartment of Mathematics, Florida State University]] (Visiting scholar of [[https://www.math.fsu.edu/~sussman/][Mark Sussman]])
+- Email: yzt9zju@gmail.com
+
+* Research Interest Areas
+
+- Computational Fluid Dynamics
+- Multiphase flow
+- PDE-constrained optizimation
+- Machine Learning
+
+* Honors and Awards
+- National Scholarship for Postgraduate (2014)
+- Outstanding graduates of Zhejiang University (2016)
+- Outstanding graduates of Zhejiang Province (2016)
+- Reviewer of [[http://www.isope.org/publications/publicationsjournal.htm][International Journal of Offshore and Polar Engineering]] (2017)
+- Reviewer of [[http://er.riteh.hr/index.php/ER][Engineering Review]] (2017)
+
 * Education
+<<<<<<< HEAD
 - 2009 - 2013, Ocean University of China, (BE) Port, Coastal and Channel Engineering
 - 2013 - 2016, Zhejiang University, (Ms) Port, Coastal and Offshore Engineering
 - 2016 - ~   , Zhejiang University, (Ph.D) Port, Coastal and Offshore Engineering
 - 2017 - ~   , Florida State University, (Visiting scholar), Applied Mathematics 
+=======
+
+| 2009 - 2013 | BE               | Ocean University of China, Engineer College         |
+| 2013 - 2016 | Ms               | Zhejiang University, Ocean Clooege                  |
+| 2016 - ~    | Ph.D             | Zhejiang University, Ocean Clooege                  |
+| 2017 - ~    | Visiting scholar | Florida State University, Department of Mathematics |
+>>>>>>> f001a95abe06ae4c88ea9c178712b451aad534bb
 
 * Publications
 
@@ -30,5 +57,7 @@
 
 - [[http://person.zju.edu.cn/en/freakwave/653371.html][Professor Xizeng Zhao, Zhejiang University]]
 - [[https://www.math.fsu.edu/~sussman/][Professor Mark Sussman, Florida State University]]
-- [[http://www.cespr.fsu.edu/][M.Y. Hussaini, Florida State University]]
+- [[http://www.cespr.fsu.edu/][Professor M.Y. Hussaini, Florida State University]]
 - [[http://www.math.zju.edu.cn:8080/teacherintroen.asp?userid=329][Professor Qinghai Zhang, Zhejiang University]]
+- [[http://person.zju.edu.cn/en/dengzz][Dr. Zhengzhi Deng, Zhejiang University]]
+- [[http://mypage.zju.edu.cn/clsvof][Dr. Ching-Hao Yu, Zhejaing University]]
