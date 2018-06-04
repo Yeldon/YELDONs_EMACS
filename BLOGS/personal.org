@@ -5,10 +5,10 @@
 #+TITLE: Zhouteng Ye
 
 * Education
-- 2009 - 2013, Ocean University of Cina, (BE) Port, Coastal and Channel Engineering
+- 2009 - 2013, Ocean University of China, (BE) Port, Coastal and Channel Engineering
 - 2013 - 2016, Zhejiang University, (Ms) Port, Coastal and Offshore Engineering
 - 2016 - ~   , Zhejiang University, (Ph.D) Port, Coastal and Offshore Engineering
-- 2017 - ~   , Florida State University, (Visiting scholar), Applied Mathematics
+- 2017 - ~   , Florida State University, (Visiting scholar), Applied Mathematics 
 
 * Publications
 
