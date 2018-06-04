@@ -1,0 +1,95 @@
+#+BLOG: wordpress
+#+POSTID: 158
+#+DATE: [2018-06-04 Mon 10:14]
+#+TITLE: Linear regression
+#+OPTIONS: tex:t
+#+CATEGORY: Learning Progress
+
+
+* Linear regression with single output
+
+Suppose we have $n$ sets of trainning data, the $i\rm{th}$  set of data consists $m$
+inputs ${x_1^i,...,x_m^i}$, and one output $y^i$. To predict the result with new
+data, linear regression is used.
+
+** Hypothesis
+By the linear regression hypothesis, the function $h_\theta(\bar x^i)$ is represented
+as
+
+$$h_\theta(\bar x^i) = \theta _0 +\theta_1 x_1^i + ... + \theta x_m^i$$
+
+where $\bar x^i = {1,x_1^i,...,x_m^i}^T$
+
+The vectorized formation is 
+
+$$\overline {h_\theta(x^i)} = \bar X^T \bar \theta$$
+
+where 
+
+$\overline {h_\theta(x^i)} = \{ h_\theta(x^1), ... h_\theta(x^m)\}^T$, 
+
+$\bar \theta = \{\theta_0, ..., \theta_m\}^T$,
+
+$\bar X =\left \{ \begin{matrix}  \bar x^1 \\ ... \\ \bar x^n \end{matrix} \right \}^T$
+
+
+
+The value of $\theta$ is determined by the cost function.
+
+** Cost function
+The least mean square is choosen as the cost function $J(\theta)$
+
+$$J(\theta) = \frac{1}{2n}\sum_{i=1}^{n} (h_\theta (x^i) - y^i)^2 =
+\frac{1}{2n}(\overline {h_\theta (x)} - \bar y)^T(\overline {h_\theta (x)} - \bar
+y )$$
+
+To minimize the cost function $J(\theta)$, the derivative of $J(\theta)$ should
+equals to 0.
+
+$$ \begin{matrix} 
+&\frac{\partial J(\theta)}{\theta_0} = \frac{1}{n}\sum_i^{n}({h_\theta (x^i)} -
+y^i ) = 0\\ 
+&\frac{\partial J(\theta)}{\theta_1} = \frac{1}{n}\sum_i^{n}({h_\theta (x^i)} -
+y^i )x_1^i = 0\\
+&... \\
+&\frac{\partial J(\theta)}{\theta_m} = \frac{1}{n}\sum_i^{n}({h_\theta (x^i)} -
+y^i )x_m^i =0\\
+\end{matrix} $$
+
+The vectorized form can be written as 
+
+$$\frac{1}{n}( \bar X^T \bar X \bar \theta - X^T \bar y ) = 0$$
+
+The value of $\bar \theta$ is
+
+$$ \bar \theta = (\bar X^T \bar X)^{-1} \bar X^T \bar y $$
+
+* Linear regression with multiple output
+
+Suppose we have $n$ sets of trainning date, the $i\rm{th}$  set of data consists $m$
+inputs ${x_1^i,...,x_m^i}$, and k output $y_1^i,...,y_k^i$.
+
+The linear regression for multiple outputs is similiar with linear regression for
+sinlgr output.
+
+For the *Hypothesis* function $h^j_theta(\bar x^i), j =1,...,k$ is  
+
+$$h^j_\theta(\bar x^i) = \theta^j _0 +\theta^j_1 x_1^i + ... + \theta^j x_m^i$$
+
+each hypothesis $h^j_\theta(\bar x^i)$ is a sinple output hypothesis and
+linearly indepent.
+
+The vectorized form can be written as
+
+$$ \overline {h_\theta(x^i)} = \bar X^T \bar \Theta$$
+
+where $\bar \Theta = [\bar \theta^1,...\bar \theta^k]$
+
+The cost function for multiple output linear regression can be written as
+multiple linealy independent sinple output linear regresson, with same operation
+on dericative. Finally the $\bar \Theta$ can be calculated with
+
+$$ \bar \Theta = (\bar X^T \bar X)^{-1} \bar X^T \bar Y $$
+
+
+Where $\bar Y = [\bar y^1,...,\bar y^k]$.
