@@ -2,6 +2,8 @@
 #+POSTID: 22
 #+DATE: [2018-05-29 Tue 15:09]
 #+TITLE: Zhouteng Ye's learning progress on probability and statistics
+#+CATEGORY: Learning Progress
+
 
 * History of probability and statistics
 *Probability* has been defined as the study of the frequency of appearance of a
