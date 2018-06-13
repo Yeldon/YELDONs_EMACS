@@ -1,0 +1,70 @@
+#+BLOG: wordpress
+#+POSTID: 245
+#+DATE: [2018-06-13 Wed 00:21]
+#+TITLE: Literature Review 06/13/2018
+
+#+CATEGORY: Learninng progress
+
+* Bayes and frequentism: a practicle physicist's perspective
+
+- *Auther:* Louis Lyons
+- *Journal*: Contemporary Physics
+- *Year:* 2013
+
+** Overview of the paper
+
+This paper provides a very good comparison between Bayesian and frequentist
+approaches, especially in the applications in particle physicst's perspective.
+Most of the paper are easy to understand, except for something related with
+particle physics. However, without knowing much about the particle physics, we
+can get enough information about the relationship and difference between Baysian
+and frequentist approaches.
+
+I firstly read the abstract, introduction and conclusion, after knowing
+the sketches, I started reading more specifically about the paper.
+Some of the exacmpples, expecially closely related with particle physics, needs
+time to think and figure out what exactly they are and how they are related with
+propabilities. Unfortunately, I did not finish every section of the paper,
+chapter 6, which is "Hypothesis testing", I read some of them, but not all of
+them. Maybe still need more time to read about it.
+
+** Something unusual about this paper
+There is one thing a bit weird about the paper. When Dr. Hussaini sent me the
+paper, I found some marks on the pdf file. The marks are very useful, but I
+would prefer mark it myself first, then compare with Dr. Hussaini's mark. Then I
+was trying to find it online. When I typed the title on Google Scholar, it came
+out with right results without any doubt. But When clicking in the [[https://www.tandfonline.com/doi/abs/10.1080/00107514.2012.756312][link]] (You can
+click [[https://www.tandfonline.com/doi/abs/10.1080/00107514.2012.756312][here]]), it is a Taylor & Francis Online page, usually the paper should be
+available for download since FSU has the access to Taylor & Francis database.
+But somehow, for this paper, it is not available for download. Then I found
+another PDF version of this paper through research gate, I finally got the
+manuscript submitted to arXiv. The two versions are slightly different, Dr
+Hussaini's version seems to be the final version, while the one on arXiv, comes
+with some mroe contents (For example, using the picture of the conflict between
+Zidane and Materazzi to exaplain the relationship between Bayesian and
+frequentist). And also, equation (6) has an typo mistake on arXiv version. I
+have no idea what happened to this paper, maybe this paper has been removed from
+Taylor & Francis, or there is something wrong with the database.
+
+Another unusual thing about this paper is. I found 18 citations to this paper,
+but when clicking for more details, I actually found some paper/book, which were
+published relier than 2013, somehow cited this paper.
+
+The author uses some very intersting examples(such as the conflict between
+Zidane and materazzi) as a metaphor for illustrating the relationship between
+Bayesian and frequentist approaches. Then it starts to tell about 
+
+
+
+* Upper and lower probability induced by a multi-valued mapping
+
+** Over view of the paper
+
+This is an very important paper for evidene theory(Dampster-Shafer theory). The
+layout of the paper is different from most of the papers I have read: it started
+with summary instead, but not ends with conclusion. It seems that the "summary"
+chaper is an combination of abstract and conclusion. This paper is hard for me
+since there is a lot of matimatical symbols, which I am not familiar with. In
+the meantime, most of the basic concepts, such as "probability measure", are
+totally new to me, I have to find out what they are from wiki, Loeve's book or
+somewhere else.

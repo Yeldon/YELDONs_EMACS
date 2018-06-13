@@ -1,0 +1,6 @@
+#+BLOG: wordpress
+#+POSTID: 239
+#+DATE: [2018-06-06 Wed 08:32]
+#+TITLE: An Example of Dempster-Shafer Theory
+
+The 

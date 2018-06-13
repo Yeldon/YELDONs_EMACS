@@ -15,7 +15,7 @@
 
 #+RESULTS:
 
-#+BEGIN_SRC python :results output
+#+BEGIN_SRC python :results output : exports both
 
   import numpy
   import sklearn
@@ -39,3 +39,5 @@
 
 * Liberate programing
   
+* 中文输入？
+Emacs-GUI里启动fcitx没搞定，不过terminal里面可以正常输入，中文就用terminal的emacs好了。
