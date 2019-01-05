@@ -26,11 +26,10 @@
 * Education
 
 | 2009 - 2013 | BE               | Ocean University of China, Engineer College         |
-| 2013 - 2016 | Ms               | Zhejiang University, Ocean College                |
+| 2013 - 2016 | Ms               | Zhejiang University, Ocean College                  |
 | 2016 - ~    | Ph.D             | Zhejiang University, Ocean College                  |
-| 2017 - ~    | Visiting scholar | Florida State University, Department of Mathematics |
-
-* Publications
+| 2017 - 2018 | Visiting scholar | Florida State University, Department of Mathematics |
+| 2018 - ~    | Visiting scholar | University of Delaware, Department of Civil Engineering |
 
 - *Ye, Z.*, & Zhao, X. (2017). /Investigation of water-water interface in dam break flow with a wet bed/. Journal of hydrology, 548, 104-120. [[https://zyeeee.files.wordpress.com/2018/05/ye-and-zhao-2017-investigation-of-water-water-interface-in-dam-brea.pdf][(PDF)]]
 - Yu, C. H., *Ye, Z. T.*, Sheu, T. W., Lin, Y. T., & Zhao, X. Z. (2016). /An improved interface preserving level set method for simulating three dimensional rising bubble/. International Journal of Heat and Mass Transfer, 103, 753-772. [[https://zyeeee.files.wordpress.com/2018/05/yu-et-al-2016-an-improved-interface-preserving-level-set-method.pdf][(PDF)]]
@@ -49,6 +48,7 @@
 * External links
 
 - [[http://person.zju.edu.cn/en/freakwave/653371.html][Professor Xizeng Zhao, Zhejiang University]]
+- [[https://fengyanshi.github.io/shi_website/_build/html/index.html][Professor Fengyan Shi, University of Delaware]]
 - [[https://www.math.fsu.edu/~sussman/][Professor Mark Sussman, Florida State University]]
 - [[http://www.cespr.fsu.edu/][Professor M.Y. Hussaini, Florida State University]]
 - [[http://www.math.zju.edu.cn:8080/teacherintroen.asp?userid=329][Professor Qinghai Zhang, Zhejiang University]]

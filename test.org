@@ -1,0 +1,29 @@
+#+BLOG: wordpress
+#+POSTID: 257
+#+DATE: [2018-09-02 Sun 14:01]
+#+TITLE: THIS IS A TEST FOR FSU-CSSA
+#+BLOG: wordpress
+
+* This is first level
+** second level 
+plain tex
+
+** insert a link 
+
+[[https://www.google.com/][This is google]]
+
+** this is a ytable
+
+|---------------+-------------+----------------|
+| first item    | second item | others         |
+|---------------+-------------+----------------|
+| this is first | test        | test           |
+|               | ijojdddww   | sfssssssssssss |
+|---------------+-------------+----------------|
+
+* Equations?
+  
+** first equation
+
+this is text with an equation: $f(x)=\frac{1}{2}x^2 * y_i^{i+1}$
+

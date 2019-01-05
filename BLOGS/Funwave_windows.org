@@ -1,0 +1,70 @@
+#+BLOG: wordpress
+#+POSTID: 277
+#+DATE: [2019-01-04 Fri 17:01]
+#+TITLE: Compile FUNWAVE on Windows 10 ( via Linux Subsystem ) 
+#+OPTIONS: tex:t
+#+CATEGORY: Computational Hydrodynamics 
+
+* Preface
+
+The FUNWAVE code is developed with UNIX based operation systems (Linux and OSX).
+It used to be easy to compile With Microsoft Windows, but after the MPI feature was
+introduced in FUNWAVE, people found diffculties when compiling with Windows OS.
+Now, owing to a new feature of Windows 10, called *Windows Subsystem for Linux*,
+the FUNWAVE code can be compiled with Windows 10 without annoying
+compling rules for windows. The Linux subsystem allows the users to run Linux command in Windows OS. In some sense, the Linux subsystem is similar to the 
+virtual machine approach, but it is much easier and much more power than the
+virtual machine in the following aspects:
+
+- fantastic connection between Windows and Linux. You can log in to the Linux
+  subsystem by simply type bash in windows command window, Besides, one can
+  get access and write files to *any* files using the bash commends, 
+- No limitation of CPU and RAM.Unlike the virtual machine, Linux system can use
+  all CPU and RAM of the PC without any restriction.
+
+* Install Linux Subsystem for Windows 10
+
+Make sure you have installed Windows 10 and logged in with your Microsoft
+account.
+
+The first step is to enable the *Developer mode* in windows settings
+
+[[./funwave_img/1.JPG]]
+
+Then turn on *Windows Subsystem for Linux* in /Control Panel/
+
+[[./funwave_img/2.JPG]]
+
+Now Download a Linux distribution in /Microsoft Store/. Personally I prefer Ubuntu 16.04 LTS.
+
+[[./funwave_img/3.JPG]]
+
+After install, you should be able to launch the linux subsystem.
+
+* Get ready with Linux Subsytem
+
+The first time one launch the Linux subsystem, it takes a couple minutes to
+initialization. After the initialization, one would be requested to set the
+username and password. 
+ 
+[[./funwave_img/5.JPG]]
+
+type the following commands then you are all set
+
+
+#+BEGIN_SRC bash
+sudo apt upfate
+sudo apt upgrade
+sudo apt install make
+sudo apt install gfortran
+sudo apt install mpich
+#+END_SRC
+
+If you are in China, I would remommend you to change the apt source to the
+Chinese host. 
+
+* Compile and run FUNWAVE 
+
+To lanch the 
+
+It should be noted that you may not be able to get 

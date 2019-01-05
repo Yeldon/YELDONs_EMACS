@@ -32,6 +32,8 @@
 - Characters: \alpha \rightarrow \beta
 - $\frac{1}{2}$
 
+$\siagma_{1}^{n}$
+
 \begin{align*}
   3 * 2 + & = 6 + 1\\
           & = 7

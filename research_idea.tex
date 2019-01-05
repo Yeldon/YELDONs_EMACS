@@ -1,0 +1,79 @@
+% Created 2018-07-31 Tue 23:46
+% Intended LaTeX compiler: pdflatex
+\documentclass[11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{graphicx}
+\usepackage{grffile}
+\usepackage{longtable}
+\usepackage{wrapfig}
+\usepackage{rotating}
+\usepackage[normalem]{ulem}
+\usepackage{amsmath}
+\usepackage{textcomp}
+\usepackage{amssymb}
+\usepackage{capt-of}
+\usepackage{hyperref}
+\author{Zhouteng Ye}
+\date{\today}
+\title{Machine learning optimized numerical wave flume}
+\hypersetup{
+ pdfauthor={Zhouteng Ye},
+ pdftitle={Machine learning optimized numerical wave flume},
+ pdfkeywords={},
+ pdfsubject={},
+ pdfcreator={Emacs 25.3.2 (Org mode 9.1.13)}, 
+ pdflang={English}}
+\begin{document}
+
+\maketitle
+As my personal knowledge, numerical wave flumes for coastal/ocean engineering in
+the world now are always facing the problem: efficiency and resolution. Simple
+algorithms are efficient, but the resolution is low; High resolution algorithms
+are time-consuming and complex. It usually takes very long time to get a
+satisfying results.
+
+Machine leaning has a huge potential to help improving numerical wave flume. It
+can help accelerating the numerical simulation and also help improving the
+numerical results. 
+
+\section{Reasons that I choose this topic}
+\label{sec:orgb4e481a}
+
+\begin{itemize}
+\item Machine learning can help acceleration of the iterations in the CFD model, e.g.
+Poisson solver in projection method, reconstruction of MOF.
+\item Machine learning can help maintaining high resolution using simple algorithm
+or us less grid.
+\item Machine learning can help determine the parameters in numerical simulation,
+e.g. parameters for RANS, LES, parameters for sediment transportation.
+\item I am more familiar with the engineering background in ocean engineering than
+other topics.
+\item I am planning to apply a new Ph.D. program other than ocean engineering, but I
+am going to enroll the new program in 2019, there was still a long before
+enrolling the new program. In the mean time, I will not give up on my degree
+in China, doing something related with ocean engineering could also help
+\end{itemize}
+
+\section{Short-term plan (from now to December 1, 2018)}
+\label{sec:org4e1cb2c}
+
+\begin{itemize}
+\item Acceleration of MOF construction using machine learning
+\end{itemize}
+
+\section{Long-term plan (if I can get extended to December 1, 2019)}
+\label{sec:org5457e2b}
+
+\begin{itemize}
+\item Numerical flume that can deal with wave propagation, shoaling, breaking and
+interaction with sediment transport and structures.
+\item Data Driven projection method for multi-phase flow
+\item An algorithm that uses the fine grid results as training data that could
+applied to correct the coarse grid simulation. It can also use experimental
+data as training data to help improving the numerical results.
+\end{itemize}
+
+\section{Reference}
+\label{sec:orgb93c28b}
+\end{document}
